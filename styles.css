@@ -29,11 +29,10 @@ body {
     font-size: 3em;
     font-weight: bold;
     margin-top: 30px;
-    text-shadow: 1 px 1px 1px #222;
+    text-shadow: 1px 1px 1px #222;
 }
 
-.navbar-brand a:hover,
-.navbar-brand a:focus {
+.navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
 }
 
@@ -69,8 +68,7 @@ body {
     padding-right: 15px;
 }
 
-.navbar-header button.navbar-toggle,
-.navbar-header .icon-bar {
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid black;
 }
 
@@ -92,9 +90,7 @@ body {
 
 /* MENU CATEGORIES PAGE */
 
-#menu-tile,
-#specials-tile,
-#map-tile {
+#menu-tile, #specials-tile, #map-tile {
     height: 250px;
     width: 100%;
     margin-bottom: 15px;
@@ -121,9 +117,7 @@ body {
     background-position: center;
 }
 
-#menu-tile span,
-#specials-tile span,
-#map-tile span {
+#menu-tile span, #specials-tile span, #map-tile span {
     position: absolute;
     font-family: 'times new roman', sans-serif;
     bottom: 0;
@@ -136,8 +130,7 @@ body {
     opacity: .8;
 }
 
-#main-content h2,
-div {
+#main-content h2, div {
     color: white;
 }
 
@@ -254,13 +247,11 @@ h3.menu-item-tile {
     margin-bottom: 35px;
 }
 
-#hours,
-#address {
+#hours, #address {
     line-height: 2;
 }
 
-#hours>span,
-#address>span {
+#hours>span, #address>span {
     font-size: 1.3em;
 }
 
